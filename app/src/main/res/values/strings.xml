@@ -1,0 +1,25 @@
+<resources>
+    <!-- shown under the launcher icon -->
+    <string name="app_name">NetSpeed Tile</string>
+
+    <!-- label that appears under the QS tile -->
+    <string name="tile_label">Net Speed</string>
+
+    <!-- subtitle used while the first speed sample is calculated -->
+    <string name="loading">calculating…</string>
+    <string-array name="unit_choices">
+        <item>kbps / Mbps (bits)</item>
+        <item>KB/s / MB/s (bytes)</item>
+    </string-array>
+
+    <string-array name="unit_values">
+        <item>bits</item>
+        <item>bytes</item>
+    </string-array>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+
+
+</resources>

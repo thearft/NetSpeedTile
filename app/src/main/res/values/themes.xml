@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--  Main UI – Drawer & Toolbar need an AppCompat parent  -->
+    <style name="Theme.NetSpeed.App"
+        parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- (optional) tweak colours -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryContainer">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+
+    <!--  QS-Tile preview (if you show a Compose preview somewhere)  -->
+    <style name="Theme.NetSpeed.Tile"
+        parent="Theme.Material3.DayNight">
+    </style>
+
+</resources>
